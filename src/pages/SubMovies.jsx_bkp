@@ -1,0 +1,65 @@
+import { useLocation, useParams, Link } from "react-router-dom";
+import { movies } from "../data/movieList";
+import MarvelHeader from "./header/MarvelHeader";
+import dynamicNameIcon from "./Dynamic/useDynamicNameIcon";
+import HarryPotterHeader from "./header/HarryPotterHeader";
+import PiratesofthecaribbeanHeader from "./header/PiratesofthecaribbeanHeader";
+import DcHeader from "./header/DcHeader";
+
+function SubMovies() {
+  const { id } = useParams();
+
+  let series = movies.find((s) => s.id === id);
+  if (series?.submovies?.length) {
+    // series = series.submovies.map((li) => li.id === id);
+  }
+  if (series.submovies === undefined) return <p>Not Found</p>;
+  dynamicNameIcon();
+
+  return (
+    <div>
+      {series.id === "mcu" ? (
+        <MarvelHeader />
+      ) : series.id === "harrypotter" ? (
+        <HarryPotterHeader />
+      ) : series.id === "piratesofthecaribbean" ? (
+        <PiratesofthecaribbeanHeader />
+      ) : series.id === "dc" ? (
+        <DcHeader />
+      ) : (
+        <h1>{series.title}</h1>
+      )}
+      <div className={style.container}>
+        {series.submovies.map((list) => {
+          return (
+            <Link to={`/${list.id}`} key={list.id}>
+              <div className={style.moviedetails} key={list.id}>
+                <img
+                  src={list.image}
+                  className={style.poster}
+                  alt={list.title}
+                />
+
+                {/* <div
+                className={`${style.text}  ${
+                  series.id === "harrypotter"
+                  ? `${style.harry}`
+                  : series.id === "piratesofthecaribbean"
+                  ? `${style.pirates}`
+                  : series.id === "mcu"
+                  ? `${style.mcu}`
+                  : ""
+                  }`}
+                  >
+                  {list.title}
+                  </div> */}
+              </div>
+            </Link>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+
+export default SubMovies;

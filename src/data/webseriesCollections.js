@@ -1,0 +1,73 @@
+import { gotseasons } from "./gotSeasons";
+
+export const webseriesCollections = [
+  {
+    id: "got",
+    title: "Game of Thrones",
+    year: "2011-2019",
+    size: "305",
+    seasons: "8",
+    resolution: "1080 P",
+    ratio: "Open Matte",
+    format: "AVC",
+    time: "50-60 mins (Each Episode)",
+    image: "/images/Web Series/got.jpg",
+    submovies: [...gotseasons],
+  },
+  {
+    id: "dark",
+    title: "Dark",
+    year: "2017-2020",
+    size: "45.5",
+    seasons: "3",
+    resolution: "1080 P",
+    ratio: "IMAX",
+    format: "AVC",
+    time: "50-60 mins (Each Episode)",
+    image: "/images/Web Series/dark.png",
+    backgroundImage:
+      "https://theculturednerd.org/wp-content/uploads/2020/05/the-dark-poster.jpg",
+  },
+  {
+    id: "friends",
+    title: "Friends",
+    year: "1966-2006",
+    size: "59.7",
+    seasons: "10",
+    resolution: "1080 P",
+    ratio: "Open Matte",
+    format: "HEVC",
+    time: "22-23 mins (Each Episode)",
+    image: "/images/Web Series/friends.png",
+    backgroundImage:
+      "https://img-s1.onedio.com/id-64f9dc669a9dc3561013a07d/rev-0/raw/s-c627f91749607f717020823fffd2ded9b3acd4fe.jpg",
+  },
+  {
+    id: "mahabaratham",
+    title: "Mahabaratham",
+    year: "2013-2014",
+    size: "133",
+    seasons: "23",
+    resolution: "1080 P",
+    ratio: "Open Matte",
+    format: "AVC",
+    time: "21-22 mins (Each Episode)",
+    image: "/images/Web Series/mahabaratham.jpg",
+    backgroundImage:
+      "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/old_images/EPISODE/6883/1000036883/1000036883-h",
+  },
+  {
+    id: "ben10",
+    title: "Ben 10 Classic",
+    year: "2005-2007",
+    size: "20.2",
+    seasons: "4",
+    resolution: "1080 P",
+    ratio: "Open Matte",
+    format: "AVC",
+    time: "22-23 mins (Each Episode)",
+    image: "/images/Web Series/ben10.jpg",
+    backgroundImage:
+      "https://wallpapers.com/images/hd/ben-10-all-alien-transformations-5khhjgut4gw0g6qa.jpg",
+  },
+];
