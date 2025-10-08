@@ -7,26 +7,25 @@ export const movieSeriesCollection = [
   {
     id: "mcu",
     title: "Marvel Cinematic Universe",
-    image: "/images/Marvel/Front Cover/MCULogo4.png",
+    image: "/images/optimized/Marvel/Front Cover/MCULogo4.webp",
     submovies: [...mcu],
   },
   {
     id: "harrypotter",
     title: "Harry Potter",
-    image: "/images/Harry Potter/Harry Potter Collection.jpeg",
+    image: "/images/optimized/Harry Potter/Harry Potter Collection.webp",
     submovies: [...harrypotter],
   },
   {
     id: "piratesofthecaribbean",
     title: "Pirates of the Caribbean",
-    image:
-      "/images/Pirates of the Carebian/Enhanced/Pirates of the Caribbean Collection.jpg",
+    image: "/images/optimized/Pirates of the Carebian/Enhanced/Pirates of the Caribbean Collection.webp",
     submovies: [...piratesofthecaribbean],
   },
   // {
   //   id: "dc",
   //   title: "DC",
-  //   image: "/images/DC/cover.png",
+  //   image: "/images/optimized/DC/cover.webp",
   //   submovies: [...dc],
   // },
 ];

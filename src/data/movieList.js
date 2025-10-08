@@ -6,25 +6,25 @@ const collectedMovies = [
   {
     id: "movieseries",
     title: "Movie Series",
-    image: "/images/HeadCover/Movie Series.jpg",
+    image: "/images/optimized/HeadCover/Movie Series.webp",
     submovies: [...movieSeriesCollection],
   },
   {
     id: "tamil",
     title: "Tamil Movies",
-    image: "/images/HeadCover/Tamil.jpg",
+    image: "/images/optimized/HeadCover/Tamil.webp",
     submovies: [...kollywood],
   },
   {
     id: "english",
     title: "English Movies",
-    image: "/images/HeadCover/English.jpg",
+    image: "/images/optimized/HeadCover/English.webp",
     submovies: [...hollywood],
   },
   {
     id: "webseries",
     title: "Web Series",
-    image: "/images/HeadCover/Web Series.jpg",
+    image: "/images/optimized/HeadCover/Web Series.webp",
     submovies: [...webseriesCollections],
   },
 ];

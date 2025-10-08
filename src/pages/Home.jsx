@@ -14,6 +14,10 @@ function Home({ movies, pathIds }) {
   useEffect(() => {
     setOrder(movies.submovies);
   }, [pathname]);
+
+  // useEffect(() => {
+  //   order?.forEach((list) => preloadImage(list.id, list.image));
+  // }, [order]);
   return (
     <div className="wrapper">
       <Header movies={movies} setOrder={setOrder} order={order} />

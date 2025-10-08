@@ -11,7 +11,7 @@ export const webseriesCollections = [
     ratio: "Open Matte",
     format: "AVC",
     time: "50-60 mins (Each Episode)",
-    image: "/images/Web Series/got.jpg",
+    image: "/images/optimized/Web Series/got.webp",
     submovies: [...gotseasons],
   },
   {
@@ -24,7 +24,7 @@ export const webseriesCollections = [
     ratio: "IMAX",
     format: "AVC",
     time: "50-60 mins (Each Episode)",
-    image: "/images/Web Series/dark.png",
+    image: "/images/optimized/Web Series/dark.webp",
     backgroundImage:
       "https://theculturednerd.org/wp-content/uploads/2020/05/the-dark-poster.jpg",
   },
@@ -38,7 +38,7 @@ export const webseriesCollections = [
     ratio: "Open Matte",
     format: "HEVC",
     time: "22-23 mins (Each Episode)",
-    image: "/images/Web Series/friends.png",
+    image: "/images/optimized/Web Series/friends.webp",
     backgroundImage:
       "https://img-s1.onedio.com/id-64f9dc669a9dc3561013a07d/rev-0/raw/s-c627f91749607f717020823fffd2ded9b3acd4fe.jpg",
   },
@@ -52,7 +52,7 @@ export const webseriesCollections = [
     ratio: "Open Matte",
     format: "AVC",
     time: "21-22 mins (Each Episode)",
-    image: "/images/Web Series/mahabaratham.jpg",
+    image: "/images/optimized/Web Series/mahabaratham.webp",
     backgroundImage:
       "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/old_images/EPISODE/6883/1000036883/1000036883-h",
   },
@@ -66,7 +66,7 @@ export const webseriesCollections = [
     ratio: "Open Matte",
     format: "AVC",
     time: "22-23 mins (Each Episode)",
-    image: "/images/Web Series/ben10.jpg",
+    image: "/images/optimized/Web Series/ben10.webp",
     backgroundImage:
       "https://wallpapers.com/images/hd/ben-10-all-alien-transformations-5khhjgut4gw0g6qa.jpg",
   },

@@ -8,9 +8,9 @@ export const hollywood = [
     resolution: "4K",
     ratio: "Open Matte",
     format: "HEVC",
-    image: "/images/Hollywood/Avatar.jpg",
+    image: "/images/optimized/Hollywood/Avatar.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/dd/49/19/dd491941-f103-0d83-a070-54f135b78342/FOX_AVATAR_TH_ITUNES_WW_ARTWORK_EN-US_3840x2160_3T16AQ000001RU.lsr/3840x2160.jpg",
+      "https://lumiere-a.akamaihd.net/v1/images/avatar_coverart_1600x686_36ea5484.jpeg",
   },
   {
     id: "2",
@@ -21,9 +21,9 @@ export const hollywood = [
     resolution: "1080 P",
     ratio: "Open Matte",
     format: "AVC",
-    image: "/images/Hollywood/2012.jpg",
+    image: "/images/optimized/Hollywood/2012.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/AfVQqMlzxc--8Wm5H1tSXw/1200x675.jpg",
+      "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/78415642-c904-4883-9007-12d895741b04/96b6205d-9aa5-407e-9789-793c8891e99b?host=wbd-images.prod-vod.h264.io&partner=beamcom",
   },
   {
     id: "3",
@@ -34,9 +34,9 @@ export const hollywood = [
     resolution: "1080 P",
     ratio: "Blu-Ray",
     format: "AVC",
-    image: "/images/Hollywood/Inception.jpg",
+    image: "/images/optimized/Hollywood/Inception.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/e7/82/10/e78210ee-606a-14f2-8a04-d568c4e6368e/pr_source.lsr/3840x2160.jpg",
+      "https://mrmoviefiend.wordpress.com/wp-content/uploads/2010/06/inception-poster-8.jpg",
   },
   {
     id: "4",
@@ -47,9 +47,9 @@ export const hollywood = [
     resolution: "4K",
     ratio: "Hybrid",
     format: "HEVC",
-    image: "/images/Hollywood/Interstellar.png",
+    image: "/images/optimized/Hollywood/interstellar.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/b7/12/48/b712487a-aa8c-09bd-4353-433b2da80aa0/PAR_INTERSTELLAR_WW_ARTWORK_EN_3840x2160_1MDPJX000000CH.lsr/3840x2160.jpg",
+      "https://img.onmanorama.com/content/dam/mm/en/entertainment/entertainment-news/images/2024/4/16/interstellar.jpg",
   },
   {
     id: "5",
@@ -60,9 +60,9 @@ export const hollywood = [
     resolution: "1080 P",
     ratio: "Blu-Ray",
     format: "AVC",
-    image: "/images/Hollywood/ford vs ferrari.jpg",
+    image: "/images/optimized/Hollywood/ford vs ferrari.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/La0pUlrDmxHrqN-COMNbpA/3840x2160.jpg",
+      "https://media.licdn.com/dms/image/v2/D4D12AQGrkXO6EQt7gg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1664723998086?e=2147483647&v=beta&t=x4igoRmpF8eiNmIUVmcW8FlGinNC0UmH6xtA5mXPbgk",
   },
   {
     id: "6",
@@ -73,9 +73,9 @@ export const hollywood = [
     resolution: "4K",
     ratio: "Open Matte",
     format: "HEVC",
-    image: "/images/Hollywood/titanic.jpg",
+    image: "/images/optimized/Hollywood/titanic.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/8CtipIqkF0SOBVAqu4N2rQ/3840x2160.jpg",
+      "https://i.ytimg.com/vi/A1FtRovJMxk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDSDRGU7c9EGMuHNqhR9nbWEfFrrg",
   },
   {
     id: "7",
@@ -86,9 +86,9 @@ export const hollywood = [
     resolution: "1080 P",
     ratio: "Blu-Ray",
     format: "AVC",
-    image: "/images/Hollywood/apocalypto.jpg",
+    image: "/images/optimized/Hollywood/apocalypto.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/ed/b5/c9/edb5c94e-daad-d948-33c1-c80b11b45ecc/pr_source.jpg/3840x2160.jpg",
+      "https://i.ytimg.com/vi/ppl0F7kOqek/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAJyP3c4JFAENVz-FBDpK2wZTDJFw",
   },
   {
     id: "8",
@@ -99,9 +99,9 @@ export const hollywood = [
     resolution: "1080 P",
     ratio: "Blu-Ray",
     format: "AVC",
-    image: "/images/Hollywood/hangover 2.jpg",
+    image: "/images/optimized/Hollywood/hangover 2.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/fe/99/8f/fe998f8b-3609-6465-56b3-e1de93c08f21/pr_source.lsr/3840x2160.jpg",
+      "https://wallpapers.com/images/hd/the-hangover-part-ii-movie-sequel-poster-n7miazwqymcrutc3.jpg",
   },
   {
     id: "9",
@@ -112,8 +112,8 @@ export const hollywood = [
     resolution: "1080 P",
     ratio: "Hybrid",
     format: "AVC",
-    image: "/images/Hollywood/Dark Knite.jpg",
+    image: "/images/optimized/Hollywood/Dark Knite.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/01/ce/b2/01ceb282-ed54-4158-9081-64cc9a660e86/pr_source.lsr/3840x2160.jpg",
+      "https://wallpapers.com/images/hd/movie-poster-background-x6fu97aioeo5vidk.jpg",
   },
 ];

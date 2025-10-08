@@ -8,7 +8,7 @@ export const harrypotter = [
     resolution: "4K",
     ratio: "Open Matte",
     format: "HEVC",
-    image: "/images/Harry Potter/1.jpg",
+    image: "/images/optimized/Harry Potter/1.webp",
     backgroundImage:
       "https://is1-ssl.mzstatic.com/image/thumb/FSGROuM0-gzIP56o6LGKxg/3840x2160.jpg",
   },
@@ -21,7 +21,7 @@ export const harrypotter = [
     resolution: "4K",
     ratio: "Open Matte",
     format: "HEVC",
-    image: "/images/Harry Potter/2.jpg",
+    image: "/images/optimized/Harry Potter/2.webp",
     backgroundImage:
       "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/3d/ca/62/3dca629c-e128-3dd4-7d11-466b2a19806d/pr_source.lsr/3840x2160.jpg",
   },
@@ -34,7 +34,7 @@ export const harrypotter = [
     resolution: "4K",
     ratio: "Open Matte",
     format: "HEVC",
-    image: "/images/Harry Potter/3.jpg",
+    image: "/images/optimized/Harry Potter/3.webp",
     backgroundImage:
       "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/8e/67/f9/8e67f973-d821-e5f4-3bd6-023baa06c6e9/c6e6ca98-c9d3-4e30-a045-98e85f2ffdf0_HP3_AZKABAN_2024_H_DD_KA_TT_CVRART_3840x2160_300dpi_EN-p3.lsr/3840x2160.jpg",
   },
@@ -47,7 +47,7 @@ export const harrypotter = [
     resolution: "4K",
     ratio: "Open Matte",
     format: "HEVC",
-    image: "/images/Harry Potter/4.jpg",
+    image: "/images/optimized/Harry Potter/4.webp",
     backgroundImage:
       "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/63/2d/8d/632d8dd4-a8a3-bf3e-fd9b-c9fa7bd52053/pr_source.lsr/3840x2160.jpg",
   },
@@ -60,7 +60,7 @@ export const harrypotter = [
     resolution: "4K",
     ratio: "Open Matte",
     format: "HEVC",
-    image: "/images/Harry Potter/5.jpg",
+    image: "/images/optimized/Harry Potter/5.webp",
     backgroundImage:
       "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/4d/22/ca/4d22cae4-14b7-2b78-2929-b9f124022856/81b314ff-3215-42ee-b191-be032262ced2_HP5_PHOENIX_2024_H_DD_KA_TT_CVRART_3840x2160_300dpi_EN-p3.lsr/3840x2160.jpg",
   },
@@ -73,7 +73,7 @@ export const harrypotter = [
     resolution: "4K",
     ratio: "Open Matte",
     format: "HEVC",
-    image: "/images/Harry Potter/6.jpg",
+    image: "/images/optimized/Harry Potter/6.webp",
     backgroundImage:
       "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/d1/62/09/d16209aa-2001-3665-5f4e-abcda854b7de/9e9dab3a-bf15-43c2-9f90-91d44625247e_HP6_PRINCE_2024_H_DD_KA_TT_CVRART_3840x2160_300dpi_EN-p3.lsr/3840x2160.jpg",
   },
@@ -86,7 +86,7 @@ export const harrypotter = [
     resolution: "4K",
     ratio: "Open Matte",
     format: "HEVC",
-    image: "/images/Harry Potter/7.jpg",
+    image: "/images/optimized/Harry Potter/7.webp",
     backgroundImage:
       "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/85/63/17/8563175a-11cd-5718-8738-aa93cb6c04a3/9769f921-a641-49b0-81d9-7f5d26653f46_HP7_PART1_2024_H_DD_KA_TT_CVRART_3840x2160_300dpi_EN-p3.lsr/3840x2160.jpg",
   },
@@ -99,7 +99,7 @@ export const harrypotter = [
     resolution: "4K",
     ratio: "Open Matte",
     format: "HEVC",
-    image: "/images/Harry Potter/8.jpg",
+    image: "/images/optimized/Harry Potter/8.webp",
     backgroundImage:
       "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/be/50/29/be5029c3-cca7-eb10-1bbd-573e9369cbec/a61e3890-ddbc-4fef-b582-fccceed45df8_HP7_PART2_2024_H_DD_KA_TT_CVRART_3840x2160_300dpi_EN-p3.lsr/3840x2160.jpg",
   },

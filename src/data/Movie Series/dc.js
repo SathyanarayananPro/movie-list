@@ -8,7 +8,7 @@ export const dc = [
     resolution: "4K",
     ratio: "Blu-Ray",
     format: "HEVC",
-    image: "/images/DC/1.jpg",
+    image: "/images/optimized/DC/1.webp",
     backgroundImage:
       "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/d9/14/16/d9141674-d2e5-4d3c-7f8a-2a73b7387dde/pr_source.lsr/3840x2160.jpg",
   },
@@ -21,7 +21,7 @@ export const dc = [
     resolution: "1080 P",
     ratio: "Hybrid",
     format: "HEVC",
-    image: "/images/DC/2.jpg",
+    image: "/images/optimized/DC/2.webp",
     backgroundImage:
       "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/17/e5/bc/17e5bc2e-02c4-409c-1166-4534404288e1/pr_source.lsr/3840x2160.jpg",
   },
@@ -34,7 +34,7 @@ export const dc = [
     resolution: "1080 P",
     ratio: "Blu-Ray",
     format: "AVC",
-    image: "/images/DC/3.jpg",
+    image: "/images/optimized/DC/3.webp",
     backgroundImage:
       "https://images4.alphacoders.com/721/thumb-1920-721701.png",
   },
@@ -47,7 +47,7 @@ export const dc = [
     resolution: "1080 P",
     ratio: "Blu-Ray",
     format: "AVC",
-    image: "/images/DC/4.jpg",
+    image: "/images/optimized/DC/4.webp",
     backgroundImage:
       "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/d6/d8/b0/d6d8b01c-d7cf-fc16-729e-0af32f07c1aa/pr_source.lsr/3840x2160.jpg",
   },
@@ -60,7 +60,7 @@ export const dc = [
     resolution: "1080 P",
     ratio: "Open Matte",
     format: "AVC",
-    image: "/images/DC/5.jpg",
+    image: "/images/optimized/DC/5.webp",
     backgroundImage:
       "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/ab/e2/37/abe237f5-7974-77a4-d81f-cb63f1de3496/pr_source.lsr/3840x2160.jpg",
   },
@@ -73,7 +73,7 @@ export const dc = [
     resolution: "1080 P",
     ratio: "4:03",
     format: "HEVC",
-    image: "/images/DC/6.jpg",
+    image: "/images/optimized/DC/6.webp",
     backgroundImage:
       "https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/4d/96/3c/4d963c55-025b-9cec-8470-37203897a7ef/pr_source.lsr/3840x2160.jpg",
   },
@@ -86,7 +86,7 @@ export const dc = [
     resolution: "4K",
     ratio: "Hybrid",
     format: "HEVC",
-    image: "/images/DC/7.jpg",
+    image: "/images/optimized/DC/7.webp",
     backgroundImage:
       "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/0c/3c/ae/0c3caec5-fb18-2e6c-1f90-fcd5cbc7e8ea/pr_source.lsr/3840x2160.jpg",
   },
@@ -99,7 +99,7 @@ export const dc = [
     resolution: "4K",
     ratio: "Blu-Ray",
     format: "HEVC",
-    image: "/images/DC/8.jpg",
+    image: "/images/optimized/DC/8.webp",
     backgroundImage:
       "https://the-bear-cave.com/wp-content/uploads/2019/04/shazam_insta_main_intl_1936x1936-e1554303742585.jpg",
   },
@@ -112,7 +112,7 @@ export const dc = [
     resolution: "4K",
     ratio: "Blu-Ray",
     format: "HEVC",
-    image: "/images/DC/9.jpg",
+    image: "/images/optimized/DC/9.webp",
     backgroundImage:
       "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/7d/3f/dd/7d3fdd28-cf7f-71c2-b46a-e6f1c37fbca4/WB_BIRDS_OF_PREY_TH_WW_ARTWORK_EN_3840x2160_23ZDJV000000DS.lsr/3840x2160.jpg",
   },
@@ -125,7 +125,7 @@ export const dc = [
     resolution: "1080 P",
     ratio: "Hybrid",
     format: "AVC",
-    image: "/images/DC/10.jpg",
+    image: "/images/optimized/DC/10.webp",
     backgroundImage:
       "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/0d/b4/15/0db41552-5353-56af-5f15-565b088b4046/pr_source.lsr/3840x2160.jpg",
   },
@@ -138,7 +138,7 @@ export const dc = [
     resolution: "4K",
     ratio: "IMAX",
     format: "HEVC",
-    image: "/images/DC/11.jpg",
+    image: "/images/optimized/DC/11.webp",
     backgroundImage:
       "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/c7/66/0d/c7660d78-48fe-0717-6b18-ed16bb156cd9/pr_source.lsr/3840x2160.jpg",
   },
@@ -151,7 +151,7 @@ export const dc = [
     resolution: "4K",
     ratio: "Blu-Ray",
     format: "HEVC",
-    image: "/images/DC/12.jpg",
+    image: "/images/optimized/DC/12.webp",
     backgroundImage:
       "https://is1-ssl.mzstatic.com/image/thumb/Video122/v4/72/cc/6f/72cc6f27-0f22-448c-86d5-76a1087a71ac/pr_source.lsr/3840x2160.jpg",
   },
@@ -164,7 +164,7 @@ export const dc = [
     resolution: "4K",
     ratio: "Blu-Ray",
     format: "HEVC",
-    image: "/images/DC/13.jpg",
+    image: "/images/optimized/DC/13.webp",
     backgroundImage:
       "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/dd/84/99/dd84997e-f757-24a8-72c0-9ab4d8aca077/pr_source.lsr/3840x2160.jpg",
   },
@@ -177,7 +177,7 @@ export const dc = [
     resolution: "4K",
     ratio: "IMAX",
     format: "HEVC",
-    image: "/images/DC/14.jpg",
+    image: "/images/optimized/DC/14.webp",
     backgroundImage:
       "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/6a/88/15/6a881581-d831-4406-a3e6-efd8c94a8f73/pr_source.lsr/3840x2160.jpg",
   },

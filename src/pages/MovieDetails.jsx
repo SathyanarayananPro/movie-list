@@ -11,7 +11,7 @@ function MovieDetails({ movie }) {
       <div className="cover-container">
         <div className="cover-poster">
           <div className="image-wrapper">
-            <img src={movie.backgroundImage} alt={movie.title} />
+            <img src={movie.backgroundImage} alt={movie.title} loading="lazy" />
             <span className="fade-left" />
             <span className="fade-right" />
           </div>
@@ -20,6 +20,7 @@ function MovieDetails({ movie }) {
           className="poster-moviedetail"
           src={movie.image}
           alt={movie.title}
+          loading="lazy"
         />
       </div>
       <div className="flex">

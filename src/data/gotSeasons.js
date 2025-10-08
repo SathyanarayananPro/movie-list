@@ -1,12 +1,12 @@
 const gotSeason1 = {
   id: "season-1",
   title: "GOT Season 1",
-  image: "/images/Got/season-1.png",
+  image: "/images/optimized/Got/season-1.webp",
   submovies: [
     {
       id: "Episode-1",
       title: "Season 1 Episode 1",
-      image: "/images/Got/Season-1/1.jpg",
+      image: "/images/optimized/Got/Season-1/1.webp",
       resolution: "1080 P",
       size: "4.37",
       time: "1h 2min",
@@ -17,7 +17,7 @@ const gotSeason1 = {
     {
       id: "Episode-2",
       title: "Season 1 Episode 2",
-      image: "/images/Got/Season-1/2.jpg",
+      image: "/images/optimized/Got/Season-1/2.webp",
       resolution: "1080 P",
       size: "3.97",
       time: "56 mins",
@@ -28,7 +28,7 @@ const gotSeason1 = {
     {
       id: "Episode-3",
       title: "Season 1 Episode 3",
-      image: "/images/Got/Season-1/3.jpg",
+      image: "/images/optimized/Got/Season-1/3.webp",
       resolution: "1080 P",
       size: "3.97",
       time: "58 mins",
@@ -39,7 +39,7 @@ const gotSeason1 = {
     {
       id: "Episode-4",
       title: "Season 1 Episode 4",
-      image: "/images/Got/Season-1/4.jpg",
+      image: "/images/optimized/Got/Season-1/4.webp",
       resolution: "1080 P",
       size: "3.97",
       time: "56 mins",
@@ -50,7 +50,7 @@ const gotSeason1 = {
     {
       id: "Episode-5",
       title: "Season 1 Episode 5",
-      image: "/images/Got/Season-1/5.jpg",
+      image: "/images/optimized/Got/Season-1/5.webp",
       resolution: "1080 P",
       size: "3.97",
       time: "55 mins",
@@ -61,7 +61,7 @@ const gotSeason1 = {
     {
       id: "Episode-6",
       title: "Season 1 Episode 6",
-      image: "/images/Got/Season-1/6.jpg",
+      image: "/images/optimized/Got/Season-1/6.webp",
       resolution: "1080 P",
       size: "3.97",
       time: "53 mins",
@@ -72,7 +72,7 @@ const gotSeason1 = {
     {
       id: "Episode-7",
       title: "Season 1 Episode 7",
-      image: "/images/Got/Season-1/7.jpg",
+      image: "/images/optimized/Got/Season-1/7.webp",
       resolution: "1080 P",
       size: "3.97",
       time: "58 mins",
@@ -83,7 +83,7 @@ const gotSeason1 = {
     {
       id: "Episode-8",
       title: "Season 1 Episode 8",
-      image: "/images/Got/Season-1/8.jpg",
+      image: "/images/optimized/Got/Season-1/8.webp",
       resolution: "1080 P",
       size: "3.97",
       time: "59 mins",
@@ -94,7 +94,7 @@ const gotSeason1 = {
     {
       id: "Episode-9",
       title: "Season 1 Episode 9",
-      image: "/images/Got/Season-1/9.jpg",
+      image: "/images/optimized/Got/Season-1/9.webp",
       resolution: "1080 P",
       size: "3.97",
       time: "59 mins",
@@ -105,7 +105,7 @@ const gotSeason1 = {
     {
       id: "Episode-10",
       title: "Season 1 Episode 10",
-      image: "/images/Got/Season-1/10.jpg",
+      image: "/images/optimized/Got/Season-1/10.webp",
       resolution: "1080 P",
       size: "3.97",
       time: "53 mins",
@@ -118,12 +118,12 @@ const gotSeason1 = {
 const gotSeason2 = {
   id: "season-2",
   title: "GOT Season 2",
-  image: "/images/Got/season-2.png",
+  image: "/images/optimized/Got/season-2.webp",
   submovies: [
     {
       id: "Episode-1",
       title: "Season 2 Episode 1",
-      image: "/images/Got/Season-2/1.jpg",
+      image: "/images/optimized/Got/Season-2/1.webp",
       resolution: "1080 P",
       size: "4.37",
       time: "53 mins",
@@ -134,7 +134,7 @@ const gotSeason2 = {
     {
       id: "Episode-2",
       title: "Season 2 Episode 2",
-      image: "/images/Got/Season-2/2.jpg",
+      image: "/images/optimized/Got/Season-2/2.webp",
       resolution: "1080 P",
       size: "4.36",
       time: "54 mins",
@@ -145,7 +145,7 @@ const gotSeason2 = {
     {
       id: "Episode-3",
       title: "Season 2 Episode 3",
-      image: "/images/Got/Season-2/3.jpg",
+      image: "/images/optimized/Got/Season-2/3.webp",
       resolution: "1080 P",
       size: "4.36",
       time: "53 mins",
@@ -156,7 +156,7 @@ const gotSeason2 = {
     {
       id: "Episode-4",
       title: "Season 2 Episode 4",
-      image: "/images/Got/Season-2/4.jpg",
+      image: "/images/optimized/Got/Season-2/4.webp",
       resolution: "1080 P",
       size: "4.37",
       time: "51 mins",
@@ -167,7 +167,7 @@ const gotSeason2 = {
     {
       id: "Episode-5",
       title: "Season 2 Episode 5",
-      image: "/images/Got/Season-2/5.jpg",
+      image: "/images/optimized/Got/Season-2/5.webp",
       resolution: "1080 P",
       size: "3.97",
       time: "55 mins",
@@ -178,7 +178,7 @@ const gotSeason2 = {
     {
       id: "Episode-6",
       title: "Season 2 Episode 6",
-      image: "/images/Got/Season-2/6.jpg",
+      image: "/images/optimized/Got/Season-2/6.webp",
       resolution: "1080 P",
       size: "4.37",
       time: "54 mins",
@@ -189,7 +189,7 @@ const gotSeason2 = {
     {
       id: "Episode-7",
       title: "Season 2 Episode 7",
-      image: "/images/Got/Season-2/7.jpg",
+      image: "/images/optimized/Got/Season-2/7.webp",
       resolution: "1080 P",
       size: "4.36",
       time: "59 mins",
@@ -200,7 +200,7 @@ const gotSeason2 = {
     {
       id: "Episode-8",
       title: "Season 2 Episode 8",
-      image: "/images/Got/Season-2/8.jpg",
+      image: "/images/optimized/Got/Season-2/8.webp",
       resolution: "1080 P",
       size: "4.36",
       time: "54 mins",
@@ -211,7 +211,7 @@ const gotSeason2 = {
     {
       id: "Episode-9",
       title: "Season 2 Episode 9",
-      image: "/images/Got/Season-2/9.jpg",
+      image: "/images/optimized/Got/Season-2/9.webp",
       resolution: "1080 P",
       size: "4.36",
       time: "55 mins",
@@ -222,7 +222,7 @@ const gotSeason2 = {
     {
       id: "Episode-10",
       title: "Season 2 Episode 10",
-      image: "/images/Got/Season-2/10.jpg",
+      image: "/images/optimized/Got/Season-2/10.webp",
       resolution: "1080 P",
       size: "4.36",
       time: "1h 4mins",
@@ -235,12 +235,12 @@ const gotSeason2 = {
 const gotSeason3 = {
   id: "season-3",
   title: "GOT Season 3",
-  image: "/images/Got/season-3.png",
+  image: "/images/optimized/Got/season-3.webp",
   submovies: [
     {
       id: "Episode-1",
       title: "Season 3 Episode 1",
-      image: "/images/Got/Season-3/1.jpg",
+      image: "/images/optimized/Got/Season-3/1.webp",
       resolution: "1080 P",
       size: "4.37",
       time: "54 mins",
@@ -251,7 +251,7 @@ const gotSeason3 = {
     {
       id: "Episode-2",
       title: "Season 3 Episode 2",
-      image: "/images/Got/Season-3/2.jpg",
+      image: "/images/optimized/Got/Season-3/2.webp",
       resolution: "1080 P",
       size: "4.37",
       time: "56 mins",
@@ -262,7 +262,7 @@ const gotSeason3 = {
     {
       id: "Episode-3",
       title: "Season 3 Episode 3",
-      image: "/images/Got/Season-3/3.jpg",
+      image: "/images/optimized/Got/Season-3/3.webp",
       resolution: "1080 P",
       size: "4.37",
       time: "57 mins",
@@ -273,7 +273,7 @@ const gotSeason3 = {
     {
       id: "Episode-4",
       title: "Season 3 Episode 4",
-      image: "/images/Got/Season-3/4.jpg",
+      image: "/images/optimized/Got/Season-3/4.webp",
       resolution: "1080 P",
       size: "4.37",
       time: "53 mins",
@@ -284,7 +284,7 @@ const gotSeason3 = {
     {
       id: "Episode-5",
       title: "Season 3 Episode 5",
-      image: "/images/Got/Season-3/5.jpg",
+      image: "/images/optimized/Got/Season-3/5.webp",
       resolution: "1080 P",
       size: "4.37",
       time: "57 mins",
@@ -295,7 +295,7 @@ const gotSeason3 = {
     {
       id: "Episode-6",
       title: "Season 3 Episode 6",
-      image: "/images/Got/Season-3/6.jpg",
+      image: "/images/optimized/Got/Season-3/6.webp",
       resolution: "1080 P",
       size: "4.37",
       time: "51 mins",
@@ -306,7 +306,7 @@ const gotSeason3 = {
     {
       id: "Episode-7",
       title: "Season 3 Episode 7",
-      image: "/images/Got/Season-3/7.jpg",
+      image: "/images/optimized/Got/Season-3/7.webp",
       resolution: "1080 P",
       size: "4.37",
       time: "58 mins",
@@ -317,7 +317,7 @@ const gotSeason3 = {
     {
       id: "Episode-8",
       title: "Season 3 Episode 8",
-      image: "/images/Got/Season-3/8.jpg",
+      image: "/images/optimized/Got/Season-3/8.webp",
       resolution: "1080 P",
       size: "4.37",
       time: "52 mins",
@@ -328,7 +328,7 @@ const gotSeason3 = {
     {
       id: "Episode-9",
       title: "Season 3 Episode 9",
-      image: "/images/Got/Season-3/9.jpg",
+      image: "/images/optimized/Got/Season-3/9.webp",
       resolution: "1080 P",
       size: "4.37",
       time: "51 mins",
@@ -339,7 +339,7 @@ const gotSeason3 = {
     {
       id: "Episode-10",
       title: "Season 3 Episode 10",
-      image: "/images/Got/Season-3/10.jpg",
+      image: "/images/optimized/Got/Season-3/10.webp",
       resolution: "1080 P",
       size: "4.36",
       time: "58 mins",
@@ -352,12 +352,12 @@ const gotSeason3 = {
 const gotSeason4 = {
   id: "season-4",
   title: "GOT Season 4",
-  image: "/images/Got/season-4.png",
+  image: "/images/optimized/Got/season-4.webp",
   submovies: [
     {
       id: "Episode-1",
       title: "Season 4 Episode 1",
-      image: "/images/Got/Season-4/1.jpg",
+      image: "/images/optimized/Got/Season-4/1.webp",
       resolution: "1080 P",
       size: "4.36",
       time: "59 mins",
@@ -368,7 +368,7 @@ const gotSeason4 = {
     {
       id: "Episode-2",
       title: "Season 4 Episode 2",
-      image: "/images/Got/Season-4/2.jpg",
+      image: "/images/optimized/Got/Season-4/2.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "54 mins",
@@ -379,7 +379,7 @@ const gotSeason4 = {
     {
       id: "Episode-3",
       title: "Season 4 Episode 3",
-      image: "/images/Got/Season-4/3.jpg",
+      image: "/images/optimized/Got/Season-4/3.webp",
       resolution: "1080 P",
       size: "4.36",
       time: "57 mins",
@@ -390,7 +390,7 @@ const gotSeason4 = {
     {
       id: "Episode-4",
       title: "Season 4 Episode 4",
-      image: "/images/Got/Season-4/4.jpg",
+      image: "/images/optimized/Got/Season-4/4.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "54 mins",
@@ -401,7 +401,7 @@ const gotSeason4 = {
     {
       id: "Episode-5",
       title: "Season 4 Episode 5",
-      image: "/images/Got/Season-4/5.jpg",
+      image: "/images/optimized/Got/Season-4/5.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "53 mins",
@@ -412,7 +412,7 @@ const gotSeason4 = {
     {
       id: "Episode-6",
       title: "Season 4 Episode 6",
-      image: "/images/Got/Season-4/6.jpg",
+      image: "/images/optimized/Got/Season-4/6.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "51 mins",
@@ -423,7 +423,7 @@ const gotSeason4 = {
     {
       id: "Episode-7",
       title: "Season 4 Episode 7",
-      image: "/images/Got/Season-4/7.jpg",
+      image: "/images/optimized/Got/Season-4/7.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "51 mins",
@@ -434,7 +434,7 @@ const gotSeason4 = {
     {
       id: "Episode-8",
       title: "Season 4 Episode 8",
-      image: "/images/Got/Season-4/8.jpg",
+      image: "/images/optimized/Got/Season-4/8.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "53 mins",
@@ -445,7 +445,7 @@ const gotSeason4 = {
     {
       id: "Episode-9",
       title: "Season 4 Episode 9",
-      image: "/images/Got/Season-4/9.jpg",
+      image: "/images/optimized/Got/Season-4/9.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "51 mins",
@@ -456,7 +456,7 @@ const gotSeason4 = {
     {
       id: "Episode-10",
       title: "Season 4 Episode 10",
-      image: "/images/Got/Season-4/10.jpg",
+      image: "/images/optimized/Got/Season-4/10.webp",
       resolution: "1080 P",
       size: "5.46",
       time: "1h 5mins",
@@ -469,12 +469,12 @@ const gotSeason4 = {
 const gotSeason5 = {
   id: "season-5",
   title: "GOT Season 5",
-  image: "/images/Got/season-5.png",
+  image: "/images/optimized/Got/season-5.webp",
   submovies: [
     {
       id: "Episode-1",
       title: "Season 5 Episode 1",
-      image: "/images/Got/Season-5/1.jpg",
+      image: "/images/optimized/Got/Season-5/1.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "53 mins",
@@ -485,7 +485,7 @@ const gotSeason5 = {
     {
       id: "Episode-2",
       title: "Season 5 Episode 2",
-      image: "/images/Got/Season-5/2.jpg",
+      image: "/images/optimized/Got/Season-5/2.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "56 mins",
@@ -496,7 +496,7 @@ const gotSeason5 = {
     {
       id: "Episode-3",
       title: "Season 5 Episode 3",
-      image: "/images/Got/Season-5/3.jpg",
+      image: "/images/optimized/Got/Season-5/3.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "1h",
@@ -507,7 +507,7 @@ const gotSeason5 = {
     {
       id: "Episode-4",
       title: "Season 5 Episode 4",
-      image: "/images/Got/Season-5/4.jpg",
+      image: "/images/optimized/Got/Season-5/4.webp",
       resolution: "1080 P",
       size: "3.27",
       time: "51 mins",
@@ -518,7 +518,7 @@ const gotSeason5 = {
     {
       id: "Episode-5",
       title: "Season 5 Episode 5",
-      image: "/images/Got/Season-5/5.jpg",
+      image: "/images/optimized/Got/Season-5/5.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "57 mins",
@@ -529,7 +529,7 @@ const gotSeason5 = {
     {
       id: "Episode-6",
       title: "Season 5 Episode 6",
-      image: "/images/Got/Season-5/6.jpg",
+      image: "/images/optimized/Got/Season-5/6.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "54 mins",
@@ -540,7 +540,7 @@ const gotSeason5 = {
     {
       id: "Episode-7",
       title: "Season 5 Episode 7",
-      image: "/images/Got/Season-5/7.jpg",
+      image: "/images/optimized/Got/Season-5/7.webp",
       resolution: "1080 P",
       size: "3.97",
       time: "59 mins",
@@ -551,7 +551,7 @@ const gotSeason5 = {
     {
       id: "Episode-8",
       title: "Season 5 Episode 8",
-      image: "/images/Got/Season-5/8.jpg",
+      image: "/images/optimized/Got/Season-5/8.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "1h",
@@ -562,7 +562,7 @@ const gotSeason5 = {
     {
       id: "Episode-9",
       title: "Season 5 Episode 9",
-      image: "/images/Got/Season-5/9.jpg",
+      image: "/images/optimized/Got/Season-5/9.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "59 mins",
@@ -573,7 +573,7 @@ const gotSeason5 = {
     {
       id: "Episode-10",
       title: "Season 5 Episode 10",
-      image: "/images/Got/Season-5/10.jpg",
+      image: "/images/optimized/Got/Season-5/10.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "1h",
@@ -586,12 +586,12 @@ const gotSeason5 = {
 const gotSeason6 = {
   id: "season-6",
   title: "GOT Season 6",
-  image: "/images/Got/season-6.png",
+  image: "/images/optimized/Got/season-6.webp",
   submovies: [
     {
       id: "Episode-1",
       title: "Season 6 Episode 1",
-      image: "/images/Got/Season-6/1.jpg",
+      image: "/images/optimized/Got/Season-6/1.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "50 mins",
@@ -602,7 +602,7 @@ const gotSeason6 = {
     {
       id: "Episode-2",
       title: "Season 6 Episode 2",
-      image: "/images/Got/Season-6/2.jpg",
+      image: "/images/optimized/Got/Season-6/2.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "54 mins",
@@ -613,7 +613,7 @@ const gotSeason6 = {
     {
       id: "Episode-3",
       title: "Season 6 Episode 3",
-      image: "/images/Got/Season-6/3.jpg",
+      image: "/images/optimized/Got/Season-6/3.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "53 mins",
@@ -624,7 +624,7 @@ const gotSeason6 = {
     {
       id: "Episode-4",
       title: "Season 6 Episode 4",
-      image: "/images/Got/Season-6/4.jpg",
+      image: "/images/optimized/Got/Season-6/4.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "59 mins",
@@ -635,7 +635,7 @@ const gotSeason6 = {
     {
       id: "Episode-5",
       title: "Season 6 Episode 5",
-      image: "/images/Got/Season-6/5.jpg",
+      image: "/images/optimized/Got/Season-6/5.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "57 mins",
@@ -646,7 +646,7 @@ const gotSeason6 = {
     {
       id: "Episode-6",
       title: "Season 6 Episode 6",
-      image: "/images/Got/Season-6/6.jpg",
+      image: "/images/optimized/Got/Season-6/6.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "52 mins",
@@ -657,7 +657,7 @@ const gotSeason6 = {
     {
       id: "Episode-7",
       title: "Season 6 Episode 7",
-      image: "/images/Got/Season-6/7.jpg",
+      image: "/images/optimized/Got/Season-6/7.webp",
       resolution: "1080 P",
       size: "3.27",
       time: "51 mins",
@@ -668,7 +668,7 @@ const gotSeason6 = {
     {
       id: "Episode-8",
       title: "Season 6 Episode 8",
-      image: "/images/Got/Season-6/8.jpg",
+      image: "/images/optimized/Got/Season-6/8.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "59 mins",
@@ -679,7 +679,7 @@ const gotSeason6 = {
     {
       id: "Episode-9",
       title: "Season 6 Episode 9",
-      image: "/images/Got/Season-6/9.jpg",
+      image: "/images/optimized/Got/Season-6/9.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "1h",
@@ -690,7 +690,7 @@ const gotSeason6 = {
     {
       id: "Episode-10",
       title: "Season 6 Episode 10",
-      image: "/images/Got/Season-6/10.jpg",
+      image: "/images/optimized/Got/Season-6/10.webp",
       resolution: "1080 P",
       size: "4.36",
       time: "1h 9 mins",
@@ -703,12 +703,12 @@ const gotSeason6 = {
 const gotSeason7 = {
   id: "season-7",
   title: "GOT Season 7",
-  image: "/images/Got/season-7.png",
+  image: "/images/optimized/Got/season-7.webp",
   submovies: [
     {
       id: "Episode-1",
       title: "Season 7 Episode 1",
-      image: "/images/Got/Season-7/1.jpg",
+      image: "/images/optimized/Got/Season-7/1.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "59 mins",
@@ -719,7 +719,7 @@ const gotSeason7 = {
     {
       id: "Episode-2",
       title: "Season 7 Episode 2",
-      image: "/images/Got/Season-7/2.jpg",
+      image: "/images/optimized/Got/Season-7/2.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "59 mins",
@@ -730,7 +730,7 @@ const gotSeason7 = {
     {
       id: "Episode-3",
       title: "Season 7 Episode 3",
-      image: "/images/Got/Season-7/3.jpg",
+      image: "/images/optimized/Got/Season-7/3.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "1h 3 mins",
@@ -741,7 +741,7 @@ const gotSeason7 = {
     {
       id: "Episode-4",
       title: "Season 7 Episode 4",
-      image: "/images/Got/Season-7/4.jpg",
+      image: "/images/optimized/Got/Season-7/4.webp",
       resolution: "1080 P",
       size: "3.27",
       time: "50 mins",
@@ -752,7 +752,7 @@ const gotSeason7 = {
     {
       id: "Episode-5",
       title: "Season 7 Episode 5",
-      image: "/images/Got/Season-7/5.jpg",
+      image: "/images/optimized/Got/Season-7/5.webp",
       resolution: "1080 P",
       size: "3.96",
       time: "59 mins",
@@ -763,7 +763,7 @@ const gotSeason7 = {
     {
       id: "Episode-6",
       title: "Season 7 Episode 6",
-      image: "/images/Got/Season-7/6.jpg",
+      image: "/images/optimized/Got/Season-7/6.webp",
       resolution: "1080 P",
       size: "4.36",
       time: "1h 11 mins",
@@ -774,7 +774,7 @@ const gotSeason7 = {
     {
       id: "Episode-7",
       title: "Season 7 Episode 7",
-      image: "/images/Got/Season-7/7.jpg",
+      image: "/images/optimized/Got/Season-7/7.webp",
       resolution: "1080 P",
       size: "5.45",
       time: "1h 21 mins",
@@ -787,12 +787,12 @@ const gotSeason7 = {
 const gotSeason8 = {
   id: "season-8",
   title: "GOT Season 8",
-  image: "/images/Got/season-8.png",
+  image: "/images/optimized/Got/season-8.webp",
   submovies: [
     {
       id: "Episode-1",
       title: "Season 8 Episode 1",
-      image: "/images/Got/Season-8/1.jpg",
+      image: "/images/optimized/Got/Season-8/1.webp",
       resolution: "1080 P",
       size: "3.97",
       time: "54 mins",
@@ -803,7 +803,7 @@ const gotSeason8 = {
     {
       id: "Episode-2",
       title: "Season 8 Episode 2",
-      image: "/images/Got/Season-8/2.jpg",
+      image: "/images/optimized/Got/Season-8/2.webp",
       resolution: "1080 P",
       size: "3.97",
       time: "58 mins",
@@ -814,7 +814,7 @@ const gotSeason8 = {
     {
       id: "Episode-3",
       title: "Season 8 Episode 3",
-      image: "/images/Got/Season-8/3.jpg",
+      image: "/images/optimized/Got/Season-8/3.webp",
       resolution: "1080 P",
       size: "3.97",
       time: "1h 22 mins",
@@ -825,7 +825,7 @@ const gotSeason8 = {
     {
       id: "Episode-4",
       title: "Season 8 Episode 4",
-      image: "/images/Got/Season-8/4.jpg",
+      image: "/images/optimized/Got/Season-8/4.webp",
       resolution: "1080 P",
       size: "3.97",
       time: "1h 18 mins",
@@ -836,7 +836,7 @@ const gotSeason8 = {
     {
       id: "Episode-5",
       title: "Season 8 Episode 5",
-      image: "/images/Got/Season-8/5.jpg",
+      image: "/images/optimized/Got/Season-8/5.webp",
       resolution: "1080 P",
       size: "3.97",
       time: "1h 18 mins",
@@ -847,7 +847,7 @@ const gotSeason8 = {
     {
       id: "Episode-6",
       title: "Season 8 Episode 6",
-      image: "/images/Got/Season-8/6.jpg",
+      image: "/images/optimized/Got/Season-8/6.webp",
       resolution: "1080 P",
       size: "3.97",
       time: "1h 19 mins",
