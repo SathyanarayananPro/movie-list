@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "optimize": "node optimize-images.js",
     "start": "react-scripts start",
-    "build": "node optimize-images.js && vite build"
+    "build": "vite build"
   },
   "dependencies": {
     "imagemin": "^7.0.1",
