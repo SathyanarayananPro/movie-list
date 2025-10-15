@@ -9,7 +9,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/3.webp",
     backgroundImage:
-      "https://m.media-amazon.com/images/S/pv-target-images/fed1f1edaa1d5f970cc33ad63bcccef2fad0f3dd7f2960c94dbf9dcbfd24ef8e._UR1920,1080_.jpg",
+      "https://image.tmdb.org/t/p/original/7FR9Srj28AWUAojaUVjSYn1rcp8.jpg",
   },
   {
     id: "2",
@@ -21,7 +21,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/24.webp",
     backgroundImage:
-      "https://static.moviecrow.com/gallery/20160508/90121-13177731_484875881715852_5902429649222675324_n.png",
+      "https://image.tmdb.org/t/p/original/lkVE6d7UIG9Uhy2bs1fjakKPMvx.jpg",
   },
   {
     id: "3",
@@ -33,7 +33,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/96.webp",
     backgroundImage:
-      "https://m.media-amazon.com/images/S/pv-target-images/d7535ba5ea6d35d0bf6b0fa268b4483ccc88fe584d9e7fee897d7f9fa47a9794.jpg",
+      "https://image.tmdb.org/t/p/original/qzu94AvnZ1az30sTUuibx2bXpfs.jpg",
   },
   {
     id: "4",
@@ -45,7 +45,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/7 aum Arivu.webp",
     backgroundImage:
-      "https://m.media-amazon.com/images/M/MV5BMmM3MDAyMGItZDc2MC00ODkyLTgzNGEtM2U4YmI2MjM2N2JhXkEyXkFqcGc@._V1_.jpg",
+      "https://image.tmdb.org/t/p/original/2puhyqxtRfWhPDCuxXa2KyaLIW5.jpg",
   },
   {
     id: "5",
@@ -56,7 +56,8 @@ export const kollywood = [
     resolution: "1080 P",
     format: "AVC",
     image: "/images/optimized/Kollywood/Aadukalam.webp",
-    backgroundImage: "https://wallpapercave.com/wp/wp8662896.jpg",
+    backgroundImage:
+      "https://image.tmdb.org/t/p/original/ucyzFee5eVrw2qa6lSLRUGyQAt2.jpg",
   },
   {
     id: "6",
@@ -68,7 +69,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/Aairathil Oruvan.webp",
     backgroundImage:
-      "https://lh6.googleusercontent.com/proxy/-Psa1XiWDFbdNkOOTdsCYStNhg5Q0wPrcwRXFX5dijsC0i6NO3ESxeQP4VtxmqWZBrbST1M8qO1fRqs8M44AjyDnRVX8eX-5lOrSusmm4_zETCmYyvOlX9JUhLFt",
+      "https://image.tmdb.org/t/p/original/wWZKPPBgj3sLnRD5xCiX8fBFjIJ.jpg",
   },
   {
     id: "7",
@@ -80,7 +81,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/Anniyan.webp",
     backgroundImage:
-      "https://sund-images.sunnxt.com/8833/960x540_Anniyan_8833_84ce7f84-8bdb-434e-b4f4-1872a1065ffa.jpg",
+      "https://image.tmdb.org/t/p/original/r1ILdQkb33gu3yL5rq68U6xCJS7.jpg",
   },
   {
     id: "8",
@@ -92,7 +93,7 @@ export const kollywood = [
     format: "HEVC",
     image: "/images/optimized/Kollywood/asuran.webp",
     backgroundImage:
-      "https://venkatarangan.com/wp-content/uploads/2019/10/asuran-2019.jpg",
+      "https://image.tmdb.org/t/p/original/uKbwrwsR65azSwzCM0YMzcZArwA.jpg",
   },
   {
     id: "9",
@@ -103,7 +104,8 @@ export const kollywood = [
     resolution: "1080 P",
     format: "AVC",
     image: "/images/optimized/Kollywood/Ayan.webp",
-    backgroundImage: "https://i.ytimg.com/vi/lo7U1Pr3sZo/maxresdefault.jpg",
+    backgroundImage:
+      "https://image.tmdb.org/t/p/original/mg4QOXH8dUVYL3Lu5EaBNLEA3Nf.jpg",
   },
   {
     id: "10",
@@ -115,7 +117,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/baahubali1.webp",
     backgroundImage:
-      "https://www.roundtableindia.co.in/wp-content/uploads/2017/05/bahubali_poster.jpg",
+      "https://image.tmdb.org/t/p/original/e9ZEuHGHZ06AToHlfN1L7nejJ7W.jpg",
   },
   {
     id: "11",
@@ -126,7 +128,8 @@ export const kollywood = [
     resolution: "1080 P",
     format: "AVC",
     image: "/images/optimized/Kollywood/baahubali2.webp",
-    backgroundImage: "https://i.ytimg.com/vi/sGuqA2p6OC8/maxresdefault.jpg",
+    backgroundImage:
+      "https://image.tmdb.org/t/p/original/yGk5RLnWX53Jve7HHVCNQaLF28h.jpg",
   },
   {
     id: "12",
@@ -137,7 +140,8 @@ export const kollywood = [
     resolution: "4K",
     format: "HEVC",
     image: "/images/optimized/Kollywood/dada.webp",
-    backgroundImage: "https://i.ytimg.com/vi/LENhsiEa6Eo/maxresdefault.jpg",
+    backgroundImage:
+      "https://image.tmdb.org/t/p/original/8SLW8lr2mQaHNJtw2PwGwUCcw3h.jpg",
   },
   {
     id: "13",
@@ -148,7 +152,8 @@ export const kollywood = [
     resolution: "1080 P",
     format: "AVC",
     image: "/images/optimized/Kollywood/dangal.webp",
-    backgroundImage: "https://wallpapercave.com/wp/wp4627641.jpg",
+    backgroundImage:
+      "https://image.tmdb.org/t/p/original/cKtSX9xTPNMkjoA7XAlgonmd2G5.jpg",
   },
   {
     id: "14",
@@ -160,7 +165,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/dasa.webp",
     backgroundImage:
-      "https://m.media-amazon.com/images/S/pv-target-images/9a89ae0c1aafa4d129b0f0c3580f187809a32363daccda94b4725ca3524049d3.png",
+      "https://image.tmdb.org/t/p/original/sVImmZxxflmCxhsMEgWyoPWoTTe.jpg",
   },
   {
     id: "15",
@@ -172,7 +177,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/ghilli.webp",
     backgroundImage:
-      "https://sund-images.sunnxt.com/8778/640x360_Ghilli_8778_95778f60-9a8d-4ace-8651-a0d0e1727ba9.jpg",
+      "https://image.tmdb.org/t/p/original/2dWbKpxGBH8JkalMdxImvIM2F4A.jpg",
   },
   {
     id: "16",
@@ -184,7 +189,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/immaikka nodigal.webp",
     backgroundImage:
-      "https://thisfireburns.home.blog/wp-content/uploads/2019/03/imaikkaa-nodigal-sm.jpg",
+      "https://image.tmdb.org/t/p/original/qWKKC8ktLWlybry17FgcINQixfF.jpg",
   },
   {
     id: "17",
@@ -196,7 +201,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/indian.webp",
     backgroundImage:
-      "https://igimage.indiaglitz.com/tamil/home/indian2652024m.jpg",
+      "https://image.tmdb.org/t/p/original/gLokHZ39okWFb9QL3xe8fvNAFDm.jpg",
   },
   {
     id: "18",
@@ -208,7 +213,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/indru.webp",
     backgroundImage:
-      "https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2F0%2Fgracenote%2F0edc3f19a787eeb08581c6e05e6ffc47.jpg",
+      "https://image.tmdb.org/t/p/original/v4heum1eu6Rx2CgHw6JGyVt5IlP.jpg",
   },
   {
     id: "19",
@@ -220,7 +225,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/Irumbu Thirai.webp",
     backgroundImage:
-      "https://img.nowrunning.com/content/movie/2017/irumb-19871/bg-video-11272017121407AM.jpg",
+      "https://image.tmdb.org/t/p/original/xAvCBs3K7GgYEIKmmDiH84OCxJv.jpg",
   },
   {
     id: "20",
@@ -243,7 +248,8 @@ export const kollywood = [
     resolution: "1080 P",
     format: "AVC",
     image: "/images/optimized/Kollywood/Kannum Kannum Kollaiadithal.webp",
-    backgroundImage: "https://i.ytimg.com/vi/hPybzXeEWSI/hq720.jpg",
+    backgroundImage:
+      "https://image.tmdb.org/t/p/original/ihc061apXLejGlSm0o9zBS096mW.jpg",
   },
   {
     id: "24",
@@ -255,7 +261,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/Kaththi.webp",
     backgroundImage:
-      "https://live.staticflickr.com/3945/15499602472_efacfd28ac_b.jpg",
+      "https://image.tmdb.org/t/p/original/rS5C9KRrLH0AIuaOtVpz3IuWSKW.jpg",
   },
   {
     id: "25",
@@ -267,7 +273,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/Kavan.webp",
     backgroundImage:
-      "https://static.moviecrow.com/gallery/20170329/109360-kavan%20po.jpg",
+      "https://image.tmdb.org/t/p/original/optgp5KfysHACDcjlEx4iPDS8co.jpg",
   },
   {
     id: "26",
@@ -279,7 +285,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/K.G.F Chapter 1.webp",
     backgroundImage:
-      "https://wallpapers.com/images/featured/kgf-4k-6fypj1jk472hjau5.jpg",
+      "https://image.tmdb.org/t/p/original/zis4P7cBDZtUGJUkvJa4fpoZkoq.jpg",
   },
   {
     id: "27",
@@ -291,7 +297,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/K.G.F Chapter 2.webp",
     backgroundImage:
-      "https://static.toiimg.com/photo/90518208.cms?resizemode=4",
+      "https://image.tmdb.org/t/p/original/cY4ytkF1ZbHbn1s4P7RpsRLN9yQ.jpg",
   },
   {
     id: "28",
@@ -303,7 +309,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/Ko.webp",
     backgroundImage:
-      "https://assets-in.bmscdn.com/discovery-catalog/events/et00006907-snxdqlzjfm-landscape.jpg",
+      "https://image.tmdb.org/t/p/original/19pGxP79ciHgdQ20bzc0KCM1Ogg.jpg",
   },
   {
     id: "29",
@@ -315,7 +321,7 @@ export const kollywood = [
     format: "HEVC",
     image: "/images/optimized/Kollywood/love today.webp",
     backgroundImage:
-      "https://jfwonline.com/wp-content/uploads/2022/11/Love-Today.jpg",
+      "https://image.tmdb.org/t/p/original/aMrsBYe5zZUmTdOTRpeReSkViQn.jpg",
   },
   {
     id: "30",
@@ -327,7 +333,7 @@ export const kollywood = [
     format: "HEVC",
     image: "/images/optimized/Kollywood/lucky baskar.webp",
     backgroundImage:
-      "https://preview.redd.it/not-a-hate-post-on-lucky-bhaskar-v0-qrd9kqm7oc4e1.jpeg?width=1080&crop=smart&auto=webp&s=e42f55a41830b1a7738e5419de60084267533855",
+      "https://image.tmdb.org/t/p/original/gMmJQyLW1qTkixs9jL9RpcJ37Sx.jpg",
   },
   {
     id: "31",
@@ -338,7 +344,8 @@ export const kollywood = [
     resolution: "4K",
     format: "HEVC",
     image: "/images/optimized/Kollywood/maanadu.webp",
-    backgroundImage: "https://i.ytimg.com/vi/puly7E2-OU4/hq720.jpg",
+    backgroundImage:
+      "https://image.tmdb.org/t/p/original/8yZGPxCT5NubBSdfw4OalHTFzA9.jpg",
   },
   {
     id: "32",
@@ -349,7 +356,8 @@ export const kollywood = [
     resolution: "1080 P",
     format: "HEVC",
     image: "/images/optimized/Kollywood/maatran.webp",
-    backgroundImage: "https://pbs.twimg.com/media/A4dEi6KCMAA-JeX.jpg:large",
+    backgroundImage:
+      "https://image.tmdb.org/t/p/original/uetxB4OciGiAgDGly1n5xrwxfuM.jpg",
   },
   {
     id: "33",
@@ -360,7 +368,8 @@ export const kollywood = [
     resolution: "1080 P",
     format: "AVC",
     image: "/images/optimized/Kollywood/maharaja.webp",
-    backgroundImage: "https://static.toiimg.com/photo/110756815.cms",
+    backgroundImage:
+      "https://image.tmdb.org/t/p/original/bZtiJPlWQN1Byk9BU5X5DQywSrt.jpg",
   },
   {
     id: "34",
@@ -372,7 +381,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/mersal.webp",
     backgroundImage:
-      "https://images.filmibeat.com/img/popcorn/fan_images/movie/15446/vijay-61-vijay-atlee-combo-mersal-photos-images-58377.jpg",
+      "https://image.tmdb.org/t/p/original/rx9kyO6YJLpXfFrU934C6i4yYMj.jpg",
   },
   {
     id: "35",
@@ -384,7 +393,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/mudhalvan.webp",
     backgroundImage:
-      "https://igimage.indiaglitz.com/tamil/home/muthalvan23012021m2.jpg",
+      "https://image.tmdb.org/t/p/original/cbKHL1Jv9JPWivRkzRsUmFYINmQ.jpg",
   },
   {
     id: "36",
@@ -396,7 +405,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/Naan Ee.webp",
     backgroundImage:
-      "https://www.cinejosh.com/gallereys/movies/normal/naan_ee_tamil_movie_posters_1606121012/naan_ee_tamil_movie_posters_1606121012_05.jpg",
+      "https://image.tmdb.org/t/p/original/6R8wSenjcaoiQS56qmOP7XhtfL5.jpg",
   },
   {
     id: "37",
@@ -407,7 +416,8 @@ export const kollywood = [
     resolution: "1080 P",
     format: "AVC",
     image: "/images/optimized/Kollywood/nanban.webp",
-    backgroundImage: "https://i.ytimg.com/vi/1jdGUoLUHTc/maxresdefault.jpg",
+    backgroundImage:
+      "https://image.tmdb.org/t/p/original/fs2zvxWsXtevX0usvSMLWBzGKEb.jpg",
   },
   {
     id: "38",
@@ -430,7 +440,8 @@ export const kollywood = [
     resolution: "1080 P",
     format: "AVC",
     image: "/images/optimized/Kollywood/oh my kada.webp",
-    backgroundImage: "https://i.ytimg.com/vi/rAVfXJtq8jI/hq720.jpg",
+    backgroundImage:
+      "https://image.tmdb.org/t/p/original/jmFgYE9LQEkEmWprRON8suUCcm9.jpg",
   },
   {
     id: "40",
@@ -442,7 +453,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/Pichaikaran.webp",
     backgroundImage:
-      "https://tharaiticketu.files.wordpress.com/2016/03/85918070-c588-42c7-9fe1-0058303b2e85.jpg",
+      "https://image.tmdb.org/t/p/original/5I6erhzDx9QMmgHF8rEbBIT0xkH.jpg",
   },
   {
     id: "41",
@@ -454,7 +465,7 @@ export const kollywood = [
     format: "HEVC",
     image: "/images/optimized/Kollywood/Premalu.webp",
     backgroundImage:
-      "https://images.jdmagicbox.com/movies/centralized_160220172024_03_14_05_54_32_720.jpg",
+      "https://image.tmdb.org/t/p/original/myEc374uFZlEvab1Y0to3EnkENN.jpg",
   },
   {
     id: "42",
@@ -466,7 +477,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/Pudhupettai.webp",
     backgroundImage:
-      "https://media.dailythanthi.com/h-upload/2023/11/04/1590052-pudhupettai.webp",
+      "https://image.tmdb.org/t/p/original/eU1cNXzUhya5BK1NOiXC084bFdM.jpg",
   },
   {
     id: "43",
@@ -478,7 +489,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/Ratchasan.webp",
     backgroundImage:
-      "https://m.media-amazon.com/images/S/pv-target-images/339e8f1329072319b23d32f8932cda7c93b5a8cc75ca19375107c19a2a1386b4.jpg",
+      "https://image.tmdb.org/t/p/original/qtEFSaBbvOhO8FQ7mrhqnSN3l0r.jpg",
   },
   {
     id: "44",
@@ -490,7 +501,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/remo.webp",
     backgroundImage:
-      "https://images.filmibeat.com/img/popcorn/fan_images/remo-photos-images-51197.jpg",
+      "https://image.tmdb.org/t/p/original/dsXSlaBhMZ1vP9jOwhSN1w1ZuQ4.jpg",
   },
   {
     id: "45",
@@ -502,7 +513,7 @@ export const kollywood = [
     format: "HEVC",
     image: "/images/optimized/Kollywood/RRR.webp",
     backgroundImage:
-      "https://images.hindustantimes.com/img/2022/04/01/550x309/RRR-Movie-Review_1648825470847_1648825479894.jpg",
+      "https://image.tmdb.org/t/p/original/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg",
   },
   {
     id: "46",
@@ -514,7 +525,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/sachein.webp",
     backgroundImage:
-      "https://m.media-amazon.com/images/S/pv-target-images/6fd25d2f530f8e41a110591064862b049f07863be7464af90106f6558c98c30b.jpg",
+      "https://image.tmdb.org/t/p/original/vrDbRoCOtIlLGKmAPuLdByLgMg0.jpg",
   },
   {
     id: "48",
@@ -526,7 +537,7 @@ export const kollywood = [
     format: "HEVC",
     image: "/images/optimized/Kollywood/Saarpatta Parambarai.webp",
     backgroundImage:
-      "https://i.ytimg.com/vi/n-EjDePWLGo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgUSg7MA8=&amp;rs=AOn4CLDzOZO1POlu_YxQzq24h6K_X0dR9Q",
+      "https://image.tmdb.org/t/p/original/j9fWBx3rAjXmCHK7M0hltRYvn3r.jpg",
   },
   {
     id: "49",
@@ -538,7 +549,7 @@ export const kollywood = [
     format: "HEVC",
     image: "/images/optimized/Kollywood/sita Ramam.webp",
     backgroundImage:
-      "https://img.airtel.tv/unsafe/fit-in/1600x0/filters:format(webp)/https://xstreamcp-assets-msp.streamready.in/assets/MINITV/MOVIE/67bf85d75aa27156910abeac/images/LANDSCAPE_169/SITA_RAMAM_1920x1080_16x9.jpg?o=production",
+      "https://image.tmdb.org/t/p/original/wlVpmSNpumstliCXtHMxPGnGZK9.jpg",
   },
   {
     id: "50",
@@ -550,7 +561,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/sivaji.webp",
     backgroundImage:
-      "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-0-244416/list/1170x658withlog1012290447.jpg",
+      "https://image.tmdb.org/t/p/original/daMkxZNnVpEgExwkiM110ofAX6H.jpg",
   },
   {
     id: "51",
@@ -562,7 +573,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/suraraipottru.webp",
     backgroundImage:
-      "https://wallpapers.com/images/featured/soorarai-pottru-flme0spd94sne2j2.jpg",
+      "https://image.tmdb.org/t/p/original/liI7qI4SbXmkGHkKiwHoMTdVbit.jpg",
   },
   {
     id: "52",
@@ -596,7 +607,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/Theeran Adigaram ondru.webp",
     backgroundImage:
-      "https://m.media-amazon.com/images/S/pv-target-images/e8ceb782c2414491ef2b49e2cbf9dec3567e259a4c5e10420f111761029c450b._SX1080_FMjpg_.jpg",
+      "https://image.tmdb.org/t/p/original/kG55K0xufD2xGonmreT5TqnVYzc.jpg",
   },
   {
     id: "55",
@@ -608,7 +619,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/theri.webp",
     backgroundImage:
-      "https://images.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/01/16/Pictures/_353928f8-bc4f-11e5-8a67-7b6ff47c171b.jpg",
+      "https://image.tmdb.org/t/p/original/yzoyr6nuB3ChA38MSHjYKlMpU6W.jpg",
   },
   {
     id: "56",
@@ -620,7 +631,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/thozha.webp",
     backgroundImage:
-      "https://tharaiticketu.wordpress.com/wp-content/uploads/2016/03/image1.jpeg",
+      "https://image.tmdb.org/t/p/original/cEtdt05J72tt5GgRgFAlpgznFMz.jpg",
   },
   {
     id: "57",
@@ -632,7 +643,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/Thuppaki.webp",
     backgroundImage:
-      "https://img.nowrunning.com/content/movie/2012/Thuppakki/bg7.jpg",
+      "https://image.tmdb.org/t/p/original/qpakrk2P4uyuxgxjTFqEE1S88zp.jpg",
   },
   {
     id: "58",
@@ -644,7 +655,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/Vadachennai.webp",
     backgroundImage:
-      "https://venkatarangan.com/wp-content/uploads/2018/10/vada-chennai.jpg",
+      "https://image.tmdb.org/t/p/original/qwNXyL14U9UEHSFhfSEFoTMxP4A.jpg",
   },
   {
     id: "59",
@@ -656,7 +667,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/Vella illa pattathari.webp",
     backgroundImage:
-      "https://sund-images.sunnxt.com/31718/1920x1080_232a39a4-7a4d-41c2-aebf-77e0fc4318f3.jpg",
+      "https://image.tmdb.org/t/p/original/stX0mhQPmsmKiOnVlKlqOAzefZl.jpg",
   },
   {
     id: "60",
@@ -667,7 +678,8 @@ export const kollywood = [
     resolution: "4K",
     format: "HEVC",
     image: "/images/optimized/Kollywood/Vikram.webp",
-    backgroundImage: "https://i.ytimg.com/vi/Uw17HJkrGR0/maxresdefault.jpg",
+    backgroundImage:
+      "https://image.tmdb.org/t/p/original/2fQQfKjD2JNJFjPVnbh2OXraFQ2.jpg",
   },
   {
     id: "61",
@@ -679,7 +691,7 @@ export const kollywood = [
     format: "AVC",
     image: "/images/optimized/Kollywood/vikram vedha.webp",
     backgroundImage:
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii-8zfNFw8aVKJBX7uYxNi4islwj8fFHqrcQaIp2qPe6rDNcdviH9Z3DY7l_SBSXwZyrKFViaQSjRY5PeJjQ7pTrRLzF2pI2SBpbw3aQk09ZJPUojyFublDoFs2DeeUR6hlVK6Ew/s1600/vikram-vedha-1.jpg",
+      "https://image.tmdb.org/t/p/original/3L3odEOqlL6SEpDfVh7MaNqyvC9.jpg",
   },
   {
     id: "62",

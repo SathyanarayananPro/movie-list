@@ -110,8 +110,7 @@ const gotSeason1 = {
       size: "3.97",
       time: "53 mins",
       year: "2011",
-      backgroundImage:
-        "https://api.mediux.pro/assets/a08de129-01e4-4040-8f10-0bd803a4f112?20240128174736",
+      backgroundImage: "/images/optimized/Got/GOT Cover/S01E10 (v2).webp",
     },
   ],
 };

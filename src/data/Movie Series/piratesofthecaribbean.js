@@ -8,9 +8,10 @@ export const piratesofthecaribbean = [
     resolution: "1080 P",
     ratio: "Open Matte",
     format: "AVC",
-    image: "/images/optimized/Pirates of the Carebian/Enhanced/1) The Curse of the Black Pearl (2003).webp",
+    image:
+      "/images/optimized/Pirates of the Carebian/Enhanced/1) The Curse of the Black Pearl (2003).webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/1d/4e/f7/1d4ef7d5-dc97-ebb7-8078-eec0a0f82b12/contsched.ouoffabp.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg",
   },
   {
     id: "2",
@@ -21,9 +22,10 @@ export const piratesofthecaribbean = [
     resolution: "1080 P",
     ratio: "Open Matte",
     format: "AVC",
-    image: "/images/optimized/Pirates of the Carebian/Enhanced/2) Dead Man's Chest (2006).webp",
+    image:
+      "/images/optimized/Pirates of the Carebian/Enhanced/2) Dead Man's Chest (2006).webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/b8/2e/18/b82e18be-ba17-a24e-97c4-407fc34f4f91/DIS_PIRATES_OF_THE_CARIBBEAN_DEAD_MANS_CHEST_WW_ARTWORK_EN_3840x2160_1NAT8T000000CI.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
   },
   {
     id: "3",
@@ -34,9 +36,10 @@ export const piratesofthecaribbean = [
     resolution: "1080 P",
     ratio: "Open Matte",
     format: "AVC",
-    image: "/images/optimized/Pirates of the Carebian/Enhanced/3) At World's End (2007).webp",
+    image:
+      "/images/optimized/Pirates of the Carebian/Enhanced/3) At World's End (2007).webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/8a/52/ef/8a52efe8-7149-21d5-73a2-f75b84ffe688/DIS_PIRATES_WW_ARTWORK_EN-US_3840x2160_1N4DTR000000CR.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
   },
   {
     id: "4",
@@ -47,9 +50,10 @@ export const piratesofthecaribbean = [
     resolution: "1080 P",
     ratio: "Open Matte",
     format: "AVC",
-    image: "/images/optimized/Pirates of the Carebian/Enhanced/4) On Stranger Tides (2011).webp",
+    image:
+      "/images/optimized/Pirates of the Carebian/Enhanced/4) On Stranger Tides (2011).webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/f1/13/c3/f113c339-c7c1-15d1-7599-e66b085ca277/DIS_PIRATES_OF_THE_CARIBBEAN_ON_STRANGER_TIDES_WW_ARTWORK_EN_3840x2160_1NASKI000000CL.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg",
   },
   {
     id: "5",
@@ -60,8 +64,9 @@ export const piratesofthecaribbean = [
     resolution: "1080 P",
     ratio: "Open Matte",
     format: "AVC",
-    image: "/images/optimized/Pirates of the Carebian/Enhanced/5) Dead Men Tell No Tales (2017).webp",
+    image:
+      "/images/optimized/Pirates of the Carebian/Enhanced/5) Dead Men Tell No Tales (2017).webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/byJItJS_lsjlHt8svVgmSQ/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/7C921eWK06n12c1miRXnYoEu5Yv.jpg",
   },
 ];

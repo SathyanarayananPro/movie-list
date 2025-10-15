@@ -26,7 +26,7 @@ export const webseriesCollections = [
     time: "50-60 mins (Each Episode)",
     image: "/images/optimized/Web Series/dark.webp",
     backgroundImage:
-      "https://theculturednerd.org/wp-content/uploads/2020/05/the-dark-poster.jpg",
+      "https://image.tmdb.org/t/p/original/qDKb6hCDsQJRHn6jFQcH0vf76r6.jpg",
   },
   {
     id: "friends",
@@ -40,7 +40,7 @@ export const webseriesCollections = [
     time: "22-23 mins (Each Episode)",
     image: "/images/optimized/Web Series/friends.webp",
     backgroundImage:
-      "https://img-s1.onedio.com/id-64f9dc669a9dc3561013a07d/rev-0/raw/s-c627f91749607f717020823fffd2ded9b3acd4fe.jpg",
+      "https://image.tmdb.org/t/p/original/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
   },
   {
     id: "mahabaratham",
@@ -68,6 +68,6 @@ export const webseriesCollections = [
     time: "22-23 mins (Each Episode)",
     image: "/images/optimized/Web Series/ben10.webp",
     backgroundImage:
-      "https://wallpapers.com/images/hd/ben-10-all-alien-transformations-5khhjgut4gw0g6qa.jpg",
+      "https://image.tmdb.org/t/p/original/eT5tW2zK3JTonRJJgijFQ1Sj5mL.jpg",
   },
 ];

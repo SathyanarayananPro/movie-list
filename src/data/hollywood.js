@@ -10,7 +10,7 @@ export const hollywood = [
     format: "HEVC",
     image: "/images/optimized/Hollywood/Avatar.webp",
     backgroundImage:
-      "https://lumiere-a.akamaihd.net/v1/images/avatar_coverart_1600x686_36ea5484.jpeg",
+      "https://image.tmdb.org/t/p/original/Yc9q6QuWrMp9nuDm5R8ExNqbEq.jpg",
   },
   {
     id: "2",
@@ -23,7 +23,7 @@ export const hollywood = [
     format: "AVC",
     image: "/images/optimized/Hollywood/2012.webp",
     backgroundImage:
-      "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/78415642-c904-4883-9007-12d895741b04/96b6205d-9aa5-407e-9789-793c8891e99b?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+      "https://image.tmdb.org/t/p/original/aM8DJ9f3i7pnoQcappHltOlvxMk.jpg",
   },
   {
     id: "3",
@@ -36,7 +36,7 @@ export const hollywood = [
     format: "AVC",
     image: "/images/optimized/Hollywood/Inception.webp",
     backgroundImage:
-      "https://mrmoviefiend.wordpress.com/wp-content/uploads/2010/06/inception-poster-8.jpg",
+      "https://image.tmdb.org/t/p/original/zah9yise78vFSMq9UtAQdEUtRfw.jpg",
   },
   {
     id: "4",
@@ -49,7 +49,7 @@ export const hollywood = [
     format: "HEVC",
     image: "/images/optimized/Hollywood/interstellar.webp",
     backgroundImage:
-      "https://img.onmanorama.com/content/dam/mm/en/entertainment/entertainment-news/images/2024/4/16/interstellar.jpg",
+      "https://image.tmdb.org/t/p/original/27IQ08XLxw2Gaj5zoOmJWmq4nNy.jpg",
   },
   {
     id: "5",
@@ -62,7 +62,7 @@ export const hollywood = [
     format: "AVC",
     image: "/images/optimized/Hollywood/ford vs ferrari.webp",
     backgroundImage:
-      "https://media.licdn.com/dms/image/v2/D4D12AQGrkXO6EQt7gg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1664723998086?e=2147483647&v=beta&t=x4igoRmpF8eiNmIUVmcW8FlGinNC0UmH6xtA5mXPbgk",
+      "https://image.tmdb.org/t/p/original/ydmZIafp66mHABs3QJDwvjRgZfE.jpg",
   },
   {
     id: "6",
@@ -75,7 +75,7 @@ export const hollywood = [
     format: "HEVC",
     image: "/images/optimized/Hollywood/titanic.webp",
     backgroundImage:
-      "https://i.ytimg.com/vi/A1FtRovJMxk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDSDRGU7c9EGMuHNqhR9nbWEfFrrg",
+      "https://image.tmdb.org/t/p/original/qBChUbS8ksbJoPTfZpogsnxG5tY.jpg",
   },
   {
     id: "7",
@@ -88,7 +88,7 @@ export const hollywood = [
     format: "AVC",
     image: "/images/optimized/Hollywood/apocalypto.webp",
     backgroundImage:
-      "https://i.ytimg.com/vi/ppl0F7kOqek/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAJyP3c4JFAENVz-FBDpK2wZTDJFw",
+      "https://image.tmdb.org/t/p/original/s8yphXScZsnvTFbSFE8rIG334vK.jpg",
   },
   {
     id: "8",
@@ -101,7 +101,7 @@ export const hollywood = [
     format: "AVC",
     image: "/images/optimized/Hollywood/hangover 2.webp",
     backgroundImage:
-      "https://wallpapers.com/images/hd/the-hangover-part-ii-movie-sequel-poster-n7miazwqymcrutc3.jpg",
+      "https://image.tmdb.org/t/p/original/aGmsekNU5cMOkJMpbdRutkvmVMl.jpg",
   },
   {
     id: "9",
@@ -114,6 +114,6 @@ export const hollywood = [
     format: "AVC",
     image: "/images/optimized/Hollywood/Dark Knite.webp",
     backgroundImage:
-      "https://wallpapers.com/images/hd/movie-poster-background-x6fu97aioeo5vidk.jpg",
+      "https://image.tmdb.org/t/p/original/plDp52MirFHc2PMJRMNWoG0kfr3.jpg",
   },
 ];

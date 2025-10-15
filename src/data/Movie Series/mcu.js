@@ -10,7 +10,7 @@ export const mcu = [
     format: "HEVC",
     image: "/images/optimized/Marvel/Customized Poster/1.Iron Man.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/2d/74/f4/2d74f463-8fd3-f960-aeaa-d9757cc37203/DIS_IRON_WW_ARTWORK_EN_3840x2160_1MO1NI000000CI.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
   },
   {
     id: 2,
@@ -21,9 +21,10 @@ export const mcu = [
     resolution: "4K",
     ratio: "Blu-Ray",
     format: "HEVC",
-    image: "/images/optimized/Marvel/Customized Poster/2.The Incredible Hulk.webp",
+    image:
+      "/images/optimized/Marvel/Customized Poster/2.The Incredible Hulk.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f5/49/48/f5494895-0db6-4e96-b628-1862185971c8/61cbf427-3d0a-44cc-b898-b784bf0a9a37_IncredibleHulk_3840x2160__U00281_U0029.jpg/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/jPu8yiadqgzwFPGKJmGo637ASVP.jpg",
   },
   {
     id: 3,
@@ -36,7 +37,7 @@ export const mcu = [
     format: "AVC",
     image: "/images/optimized/Marvel/Customized Poster/3.Iron Man-2.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/f5/1e/79/f51e79a3-cb2e-ecc5-8a96-83f604f4e2a4/DIS_IRON2_WW_ARTWORK_EN-US_3840x2160_1MO23U000000CL.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
   },
   {
     id: 4,
@@ -49,7 +50,7 @@ export const mcu = [
     format: "HEVC",
     image: "/images/optimized/Marvel/Customized Poster/4.Thor.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/b1/f1/cc/b1f1cc16-35bb-9122-9b87-06610fe9d507/DIS_THOR_WW_ARTWORK_EN-US_3840x2160_1MP5YQ000000CL.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
   },
   {
     id: 5,
@@ -60,9 +61,10 @@ export const mcu = [
     resolution: "1080 P",
     ratio: "Open Matte",
     format: "AVC",
-    image: "/images/optimized/Marvel/Customized Poster/5.Captain America The First Avenger.webp",
+    image:
+      "/images/optimized/Marvel/Customized Poster/5.Captain America The First Avenger.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/fc/e3/52/fce3528d-484c-1264-a25b-57cab4a0ba63/DIS_CAPTAIN_WW_ARTWORK_EN-US_3840x2160_1MNYRR000000CI.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
   },
   {
     id: 6,
@@ -75,7 +77,7 @@ export const mcu = [
     format: "HEVC",
     image: "/images/optimized/Marvel/Customized Poster/6.The Avengers.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/0c/88/a1/0c88a179-f453-4588-af4a-9fc10aa89853/DIS_AVENGERS_THE_WW_ARTWORK_EN-US_3840x2160_1MP7RO000000CL.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
   },
   {
     id: 7,
@@ -88,7 +90,7 @@ export const mcu = [
     format: "AVC",
     image: "/images/optimized/Marvel/Customized Poster/7.Iron man 3.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/ec/e6/5a/ece65ab8-b255-4c8a-38c6-cd7239cce6ca/SPE_IRON3_WW_ARTWORK_EN-US_3840x2160_1MO2PL000000CI.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/iVped1djsF0tvGkvnHbzsE3ZPTF.jpg",
   },
   {
     id: 8,
@@ -99,9 +101,10 @@ export const mcu = [
     resolution: "4K",
     ratio: "Blu-Ray",
     format: "HEVC",
-    image: "/images/optimized/Marvel/Customized Poster/8.Thor The Dark World.webp",
+    image:
+      "/images/optimized/Marvel/Customized Poster/8.Thor The Dark World.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/45/46/fe/4546fe4d-47e3-cb01-2e34-e83ca92cce54/DIS_THOR_2_WW_ARTWORK_EN-US_3840x2160_1MP7GY000000CL.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/4zTsF0RtO0av3YX1NaKDqGKPxYF.jpg",
   },
   {
     id: 9,
@@ -112,9 +115,10 @@ export const mcu = [
     resolution: "4K",
     ratio: "Blu-Ray",
     format: "HEVC",
-    image: "/images/optimized/Marvel/Customized Poster/9.Captain America The Winter Soldier.webp",
+    image:
+      "/images/optimized/Marvel/Customized Poster/9.Captain America The Winter Soldier.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/59/55/7c/59557c85-9fff-4861-44dd-c3d5c09203e1/DIS_CAPTAIN2_WW_ARTWORK_EN-US_3840x2160_1MNSWM000000CL.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/1RWLMyC9KcFfcaoViMiJGSSZzzr.jpg",
   },
   {
     id: 10,
@@ -125,9 +129,10 @@ export const mcu = [
     resolution: "1080 P",
     ratio: "Hybrid",
     format: "AVC",
-    image: "/images/optimized/Marvel/Customized Poster/10.Guardians of the Galaxy.webp",
+    image:
+      "/images/optimized/Marvel/Customized Poster/10.Guardians of the Galaxy.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/93/e3/ea/93e3eaad-b661-805d-742d-f9748a7ac386/DIS_GUARD1_WW_ARTWORK_EN-US_3840x2160_1MO05F000000CL.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
   },
   {
     id: 11,
@@ -138,9 +143,10 @@ export const mcu = [
     resolution: "4K",
     ratio: "Blu-Ray",
     format: "HEVC",
-    image: "/images/optimized/Marvel/Customized Poster/11.Avengers Age of Ultron.webp",
+    image:
+      "/images/optimized/Marvel/Customized Poster/11.Avengers Age of Ultron.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/9b/fc/f9/9bfcf931-3141-58ba-c741-1d1ae9bb31f2/DIS_AV_ULTRON_WW_ARTWORK_EN-US_3840x2160_1MP7UP000000CO.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
   },
   {
     id: 12,
@@ -153,7 +159,7 @@ export const mcu = [
     format: "HEVC",
     image: "/images/optimized/Marvel/Customized Poster/12.Ant-Man.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/d3/55/7b/d3557bf1-ad18-d17d-b4b2-c67c03e54d16/DIS_ANT_WW_ARTWORK_EN_3840x2160_1OFQ9A000000CS.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/a7sAqMKv5tkAdMzFfIhPqIBmQ9g.jpg",
   },
   {
     id: 13,
@@ -164,9 +170,10 @@ export const mcu = [
     resolution: "1080 P",
     ratio: "Hybrid",
     format: "AVC",
-    image: "/images/optimized/Marvel/Customized Poster/13.Captain America Civil War.webp",
+    image:
+      "/images/optimized/Marvel/Customized Poster/13.Captain America Civil War.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/31/73/51/317351c0-9a1e-756b-d1ad-c176abc02bd8/DIS_CAPTAIN3_WW_ARTWORK_EN-US_3840x2160_1MNY4E000000CI.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/7FWlcZq3r6525LWOcvO9kNWurN1.jpg",
   },
   {
     id: 14,
@@ -179,7 +186,7 @@ export const mcu = [
     format: "AVC",
     image: "/images/optimized/Marvel/Customized Poster/14.Doctor Strange.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/fd/1e/21/fd1e2149-99ad-16e7-475b-1c64512ac17a/DIS_DOCTOR_WW_ARTWORK_EN-US_3840x2160_1MNZCS000000CI.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/7qI7HPrw3hD2toqYQ62vOdkLx3I.jpg",
   },
   {
     id: 15,
@@ -190,9 +197,10 @@ export const mcu = [
     resolution: "1080 P",
     ratio: "Hybrid",
     format: "AVC",
-    image: "/images/optimized/Marvel/Customized Poster/15.Guardians of the Galaxy (Vol. 2).webp",
+    image:
+      "/images/optimized/Marvel/Customized Poster/15.Guardians of the Galaxy (Vol. 2).webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/8b/38/4d/8b384d2f-4b61-5a5b-6472-2e10e3e975e5/DIS_GUARD2_WW_ARTWORK_EN-US_3840x2160_1MO11C000000CI.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
   },
   {
     id: 16,
@@ -203,9 +211,10 @@ export const mcu = [
     resolution: "4K",
     ratio: "Blu-Ray",
     format: "HEVC",
-    image: "/images/optimized/Marvel/Customized Poster/16.Spide-Man Homecoming.webp",
+    image:
+      "/images/optimized/Marvel/Customized Poster/16.Spide-Man Homecoming.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/26/a2/07/26a207b4-c6a8-5ceb-5d13-2328e5f908b8/1243195844-US-AMP_SF.lsr/1712x964.jpg",
+      "https://image.tmdb.org/t/p/original/2j91PzOC2gSWKn53AIIAQi0UYI.jpg",
   },
   {
     id: 17,
@@ -218,7 +227,7 @@ export const mcu = [
     format: "AVC",
     image: "/images/optimized/Marvel/Customized Poster/17.Thor Ragnarok.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/f3/2e/cb/f32ecb72-cbaf-5131-cda8-91100efc62b0/DIS_THOR_R_WW_ARTWORK_EN-US_3840x2160_1MP7JS000000CO.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
   },
   {
     id: 18,
@@ -231,7 +240,7 @@ export const mcu = [
     format: "AVC",
     image: "/images/optimized/Marvel/Customized Poster/18.Black Panther.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/56/7d/66/567d66f7-889d-7802-bf68-c8d6f8aa0d6a/DIS_BLACK_WW_ARTWORK_EN-US_3840x2160_1MNHXZ000000D6.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/6ELJEzQJ3Y45HczvreC3dg0GV5R.jpg",
   },
   {
     id: 19,
@@ -242,9 +251,10 @@ export const mcu = [
     resolution: "1080 P",
     ratio: "IMAX",
     format: "AVC",
-    image: "/images/optimized/Marvel/Customized Poster/19.Avengers Infinity War.webp",
+    image:
+      "/images/optimized/Marvel/Customized Poster/19.Avengers Infinity War.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/4e/5c/06/4e5c0672-3b90-f79e-9ef1-4bfff0ac2446/pr_source.jpg/1920x1080.jpg",
+      "https://image.tmdb.org/t/p/original/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
   },
   {
     id: 20,
@@ -255,9 +265,10 @@ export const mcu = [
     resolution: "1080 P",
     ratio: "Hybrid",
     format: "AVC",
-    image: "/images/optimized/Marvel/Customized Poster/20.Ant-Man and The Wasp.webp",
+    image:
+      "/images/optimized/Marvel/Customized Poster/20.Ant-Man and The Wasp.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/9c/be/28/9cbe2838-bc82-a090-c2d9-6d337e6c04f2/pr_source.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/6P3c80EOm7BodndGBUAJHHsHKrp.jpg",
   },
   {
     id: 21,
@@ -270,7 +281,7 @@ export const mcu = [
     format: "AVC",
     image: "/images/optimized/Marvel/Customized Poster/21.Captain Marvel.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/f2/b8/76/f2b876ae-c3e6-24a7-6e3d-7043a5f575a2/DIS_CAPTAIN_MARVEL_WW_ARTWORK_EN_3840x2160_2J031P000000GX.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/niok8TtyL1Z8QowI0H78gRyffJT.jpg",
   },
   {
     id: 22,
@@ -281,9 +292,10 @@ export const mcu = [
     resolution: "1080 P",
     ratio: "IMAX",
     format: "AVC",
-    image: "/images/optimized/Marvel/Customized Poster/22.Avengers EndGame.webp",
+    image:
+      "/images/optimized/Marvel/Customized Poster/22.Avengers EndGame.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/a0/f6/cd/a0f6cd76-b6df-9e5c-3ea5-eaf9255c2426/DIS_AVENGERS_ENDGAME_WW_ARTWORK_EN_3840x2160_2J03RI000000G8.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
   },
   {
     id: 23,
@@ -294,9 +306,10 @@ export const mcu = [
     resolution: "1080 P",
     ratio: "Hybrid",
     format: "HEVC",
-    image: "/images/optimized/Marvel/Customized Poster/23.Spide-Man Far from Home.webp",
+    image:
+      "/images/optimized/Marvel/Customized Poster/23.Spide-Man Far from Home.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/dd/50/f7/dd50f7fc-81c8-a100-ca91-4c71fb1e321b/pr_source.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/vamhMTvh9m9zFHDoR0v1nRtf6T4.jpg",
   },
   {
     id: 24,
@@ -309,7 +322,7 @@ export const mcu = [
     format: "AVC",
     image: "/images/optimized/Marvel/Customized Poster/24.Black Widow.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/49/81/7a/49817a1c-ce85-9671-7087-a98de7926975/DIS_BLACK_WIDOW_ITUNES_ARTWORK_WW_ARTWORK_EN_3840x2160_2UGOQY00000MVE-REFRESH.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
   },
   {
     id: 25,
@@ -320,9 +333,10 @@ export const mcu = [
     resolution: "1080 P",
     ratio: "IMAX",
     format: "AVC",
-    image: "/images/optimized/Marvel/Customized Poster/25.Shang Chi and The Legend of Ten Rings.webp",
+    image:
+      "/images/optimized/Marvel/Customized Poster/25.Shang Chi and The Legend of Ten Rings.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/13/60/28/136028f4-5d54-d39f-96bc-067e9d448216/DIS_SHANG_CHI_ITUNES_ARTWORK_WW_ARTWORK_EN_3840x2160_2XV5FB00000HXE-REFRESH.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/rAksPS6LjBONzY84szQBz5gGej6.jpg",
   },
   {
     id: 26,
@@ -335,7 +349,7 @@ export const mcu = [
     format: "AVC",
     image: "/images/optimized/Marvel/Customized Poster/26.Eternals.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/c5/db/f5/c5dbf59d-b191-04bb-d2f4-a660d7e5818d/DIS_ETERNALS_INTL_ITUNES-ARTWORK-169_WW_ARTWORK_EN_3840x2160_33IRA800000BGJ-R1.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/fzKWwcaam9QSTaMSJlORuSojxio.jpg",
   },
   {
     id: 27,
@@ -346,9 +360,10 @@ export const mcu = [
     resolution: "2K",
     ratio: "IMAX",
     format: "HEVC",
-    image: "/images/optimized/Marvel/Customized Poster/27.Spider-Man No Way Home.webp",
+    image:
+      "/images/optimized/Marvel/Customized Poster/27.Spider-Man No Way Home.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/0f/5d/10/0f5d10d8-1eef-8294-8a71-8a14599984e8/SPE_SPIDERMAN_NO_WAY_HOME_TH_US_ARTWORK_EN-US_3840x2160_3358QV00000HS3.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/nqUThBjou0TAWXu93Q4SNFpgqai.jpg",
   },
   {
     id: 28,
@@ -359,9 +374,10 @@ export const mcu = [
     resolution: "1080 P",
     ratio: "IMAX",
     format: "AVC",
-    image: "/images/optimized/Marvel/Customized Poster/28.Doctor Strange in the Multiverse of Madness.webp",
+    image:
+      "/images/optimized/Marvel/Customized Poster/28.Doctor Strange in the Multiverse of Madness.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/61/1a/29/611a29f8-99b1-d7af-0b2f-fd11f657b564/DoctorStrangeMultiverseOfMadness_LineLook_Apple_Cover-Art_LSR_3840x2160_EN.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/iKUwhA4DUxMcNKu5lLSbDFwwilk.jpg",
   },
   {
     id: 29,
@@ -372,9 +388,10 @@ export const mcu = [
     resolution: "1080 P",
     ratio: "Hybrid",
     format: "AVC",
-    image: "/images/optimized/Marvel/Customized Poster/29.Thor Love and Thunder.webp",
+    image:
+      "/images/optimized/Marvel/Customized Poster/29.Thor Love and Thunder.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/f5/00/f5/f500f50c-656b-54b8-9daf-1fc7c6d6168e/Thor_LoveAndThunder_LineLook_Apple_Cover-Art_LSR_3840x2160_EN.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
   },
   {
     id: 30,
@@ -385,9 +402,10 @@ export const mcu = [
     resolution: "1080 P",
     ratio: "Hybrid",
     format: "AVC",
-    image: "/images/optimized/Marvel/Customized Poster/30.Black Panther Wakanda Forever.webp",
+    image:
+      "/images/optimized/Marvel/Customized Poster/30.Black Panther Wakanda Forever.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/2d/24/31/2d24315d-2525-44b1-74d7-70d1af4f1de2/contsched.lpdvbuok.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/83H0C66AcvkwpG2738VCTHMY9uv.jpg",
   },
   {
     id: 31,
@@ -398,9 +416,10 @@ export const mcu = [
     resolution: "1080 P",
     ratio: "Hybrid",
     format: "AVC",
-    image: "/images/optimized/Marvel/Customized Poster/31.Ant-Man and the Wasp Quantumania.webp",
+    image:
+      "/images/optimized/Marvel/Customized Poster/31.Ant-Man and the Wasp Quantumania.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/7c/0b/2a/7c0b2a7b-d4e8-855f-6068-b8d462f67cf3/contsched.ewopqdhv.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/m8JTwHFwX7I7JY5fPe4SjqejWag.jpg",
   },
   {
     id: 32,
@@ -411,9 +430,10 @@ export const mcu = [
     resolution: "1080 P",
     ratio: "IMAX",
     format: "AVC",
-    image: "/images/optimized/Marvel/Customized Poster/32.Guardians of the Galaxy (Vol. 3).webp",
+    image:
+      "/images/optimized/Marvel/Customized Poster/32.Guardians of the Galaxy (Vol. 3).webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/90/37/87/903787da-8203-615d-f872-9078e44663a3/DIS_GOTGV3_ITUNES-ARTWORK-169_WW_ARTWORK_3840x2160_3U5Q8E00000DUL.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
   },
   {
     id: 33,
@@ -426,6 +446,6 @@ export const mcu = [
     format: "AVC",
     image: "/images/optimized/Marvel/Customized Poster/33.The Marvels.webp",
     backgroundImage:
-      "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/10/90/8e/10908ec8-fcee-c794-b373-3178b48d5329/DIS_MARVELS_THE_TH_ITUNES-169_WW_ARTWORK_EN_3840x2160_43W5K5000003EQ.lsr/3840x2160.jpg",
+      "https://image.tmdb.org/t/p/original/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
   },
 ];
